@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikedalu
-- 👀 I’m a in Front End Web Development
+- 👀 I’m a Front End Web Developer
 - 🌱 I have one year experice working with  REACT.JS
 - 💞️ I’m looking to collaborate on any Mobile Web Development Project
 - 📫 How to reach me  Email: simdimike123@gmail.com

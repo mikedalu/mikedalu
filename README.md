@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikedalu
 - 👀 I’m a Fullstack Web Developer
-- 🌱 I love working REACT.JS and Node.js to develope scalable web applications
+- 🌱 I love working with REACT.JS  Node.js and Django to develope scalable web applications
 - 💞️ I’m looking to collaborate on any Mobile Web Development Project
 - 📫 How to reach me  Email: simdimike123@gmail.com
 

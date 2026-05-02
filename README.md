@@ -1,6 +1,6 @@
 # Hi, I'm Micheal Dalu 👋
 
-Backend Engineer focused on scalable APIs, distributed systems, and production-grade backend architecture.
+Backend Engineer focused on scalable APIs, AI Automation - RAG, distributed systems, and production-grade backend architecture.
 
 Currently specializing in Java & Spring Boot for enterprise and high-performance systems.
 

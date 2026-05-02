@@ -6,14 +6,14 @@ Currently specializing in Java & Spring Boot for enterprise and high-performance
 
 ## 🛠 Core Stack
 
-**Languages:** Java, Go, TypeScript  
+**Languages:** Java, Go, TypeScript, Python  
 **Backend:** Spring Boot, NestJS, Node.js  
 **Databases:** PostgreSQL, MongoDB  
 **Architecture:** Microservices, REST APIs, Event-driven systems  
 **DevOps:** Docker, CI/CD
 
 ## 🚀 Current Focus
-
+- AI Automation - RAG - Chatbots
 - Deep dive into JVM internals & performance tuning  
 - Building distributed systems with Spring Boot  
 - Designing clean, maintainable backend architectures

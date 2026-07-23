@@ -9,6 +9,7 @@ Currently specializing in Java & Spring Boot for enterprise and high-performance
 **Languages:** Java, Go, TypeScript, Python  
 **Backend:** Spring Boot, NestJS, Node.js  
 **Frontend:** React.js Next.js
+
 **Databases:** PostgreSQL, MongoDB  
 **Architecture:** Microservices, REST APIs, Event-driven systems  
 **DevOps:** Docker, CI/CD, GCP, AWS, Azure

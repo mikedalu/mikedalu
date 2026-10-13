@@ -1,18 +1,18 @@
 # Hi, I'm Micheal Dalu 👋
 
-Backend Engineer focused on scalable APIs, AI Automation - RAG, distributed systems, and production-grade backend architecture.
+Fullstack Engineer (Backend heavy) focused on scalable APIs, AI Automation - RAG, distributed systems, and production-grade backend architecture.
 
 Currently specializing in Java & Spring Boot for enterprise and high-performance systems.
 
 ## 🛠 Core Stack
 
 **Languages:** Java, Go, TypeScript, Python  
-**Backend:** Spring Boot, NestJS, Node.js  
+**Backend:** Spring Boot, NestJS, Node.js, go/Gin  
 **Frontend:** React.js Next.js
 
 **Databases:** PostgreSQL, MongoDB  
 **Architecture:** Microservices, REST APIs, Event-driven systems  
-**DevOps:** Docker, CI/CD, GCP, AWS, Azure
+**DevOps:** Docker, CI/CD, GCP, AWS
 
 ## 🚀 Current Focus
 - AI Automation - RAG - Chatbots
@@ -24,6 +24,9 @@ Currently specializing in Java & Spring Boot for enterprise and high-performance
 
 ### Distributed E-Commerce Backend (Java + Spring Boot)
 Microservices-based backend with authentication, order processing, event-driven communication, and Redis caching.
+
+### EMR - Electronic Medical Record system (Golang gin)
+Fullstack with authentication, patient records and managment, pharmacy module, radiology module, finace module and laboratory module.
 
 ### High-Performance API Gateway (Node.js)
 Rate-limited, production-ready API gateway with logging and monitoring.
